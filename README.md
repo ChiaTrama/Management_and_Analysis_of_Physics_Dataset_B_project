@@ -1,6 +1,6 @@
 # Distributed Algorithms - K-Means
 
-This project implements the **K-Means algorithm** (described in [this] article (https://arxiv.org/pdf/1203.6402)) in the context of distributed algorithms. It was developed as part of the course **Physics of Data - Management and Analysis of Physics Datasets mod.B**, academic year 2023-2024.
+This project implements the **K-Means algorithm**(https://arxiv.org/pdf/1203.6402) in the context of distributed algorithms. It was developed as part of the course **Physics of Data - Management and Analysis of Physics Datasets mod.B**, academic year 2023-2024.
 
 ## Authors
 - Alessio Tuscano
